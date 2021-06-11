@@ -16,6 +16,6 @@ The numerical value of targetWord is "cdb" -> "231" -> 231.
 We return true because 21 + 210 == 231.
 ```
 
-| Time | Space | Difficulty | Tag(s) |
-| ---- | ----- | ---------- | ------ |
-| O(n) | O(1)  | Easy       | String |
+| Time   | Space  | Difficulty | Tag(s) |
+| ------ | ------ | ---------- | ------ |
+| _O(n)_ | _O(1)_ | Easy       | String |

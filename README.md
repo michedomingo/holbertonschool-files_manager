@@ -24,9 +24,9 @@ Solution(s) to problem [35 Search Insert Position](https://leetcode.com/problems
 
 ### String
 
-| #    | Title                                                                                                                     | Solution                                                                             | Time | Space | Difficulty |
-| ---- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---- | ----- | ---------- |
-| 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | [Python](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | O(n) | O(1)  | Easy       |
+| #    | Title                                                                                                                     | Solution                                                                                                                                                                    | Time   | Space  | Difficulty |
+| ---- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ | ---------- |
+| 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | [Python](https://github.com/michedomingo/practice_leetcode/blob/main/18/80-check-if-word-equals-summation-of-two-words/1880-check-if-word-equals-summation-of-two-words.py) | _O(n)_ | _O(1)_ | Easy       |
 
 <br/>
 <div align="right">
