@@ -26,6 +26,7 @@ Solution(s) to problem [35 Search Insert Position](https://leetcode.com/problems
 
 | #    | Title                                                                             | Solution                                                                  | Time   | Space  | Difficulty |
 | ---- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------ | ------ | ---------- |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)             | [Python](./14/70-shuffle-the-array/1470-shuffle-the-array.py)             | _O(n)_ | _O(1)_ | Easy       |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python](./14/80-running-sum-of-1d-array/1480-running-sum-of-1d-array.py) | _O(n)_ | _O(1)_ | Easy       |
 
 <br/>
@@ -40,6 +41,7 @@ Solution(s) to problem [35 Search Insert Position](https://leetcode.com/problems
 
 | #    | Title                                                                                                                     | Solution                                                                                                          | Time   | Space  | Difficulty |
 | ---- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------ | ------ | ---------- |
+| 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)                                         | [Python](./11/08-defanging-an-ip-address/1108-defanging-an-ip-address.py)                                         | _O(n)_ | _O(1)_ | Easy       |
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | [Python](./18/80-check-if-word-equals-summation-of-two-words/1880-check-if-word-equals-summation-of-two-words.py) | _O(n)_ | _O(1)_ | Easy       |
 
 <br/>
