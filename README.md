@@ -24,10 +24,11 @@ Solution(s) to problem [35 Search Insert Position](https://leetcode.com/problems
 
 ### Array
 
-| #    | Title                                                                             | Solution                                                                  | Time   | Space  | Difficulty |
-| ---- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------ | ------ | ---------- |
-| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)             | [Python](./14/70-shuffle-the-array/1470-shuffle-the-array.py)             | _O(n)_ | _O(1)_ | Easy       |
-| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python](./14/80-running-sum-of-1d-array/1480-running-sum-of-1d-array.py) | _O(n)_ | _O(1)_ | Easy       |
+| #    | Title                                                                             | Solution                                                                  | Time        | Space  | Difficulty |
+| ---- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------- | ------ | ---------- |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)             | [Python](./14/70-shuffle-the-array/1470-shuffle-the-array.py)             | _O(n)_      | _O(1)_ | Easy       |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python](./14/80-running-sum-of-1d-array/1480-running-sum-of-1d-array.py) | _O(n)_      | _O(1)_ | Easy       |
+| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Python](./16/72-richest-customer-wealth/1672-richest-customer-wealth.py) | _O(m \* n)_ | _O(1)_ | Easy       |
 
 <br/>
 <div align="right">
