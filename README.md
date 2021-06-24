@@ -39,6 +39,20 @@ Solution(s) to problem [35 Search Insert Position](https://leetcode.com/problems
 
 ---
 
+### Math
+
+| #    | Title                                                                      | Solution                                                            | Time   | Space  | Difficulty |
+| ---- | -------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------ | ------ | ---------- |
+| 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | [Python](./15/12-number-of-good-pairs/1512-number-of-good-pairs.py) | _O(n)_ | _O(1)_ | Easy       |
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+---
+
 ### String
 
 | #    | Title                                                                                                                     | Solution                                                                                                          | Time   | Space  | Difficulty |
