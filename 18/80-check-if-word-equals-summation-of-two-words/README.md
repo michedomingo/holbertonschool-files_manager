@@ -21,6 +21,6 @@ We return true because 21 + 210 == 231.
 - `1 <= firstWord.length, secondWord.length, targetWord.length <= 8`
 - `firstWord`, `secondWord`, and `targetWord` consist of lowercase English letters from `'a'` to `'j'` **inclusive**.
 
-| Time   | Space  | Difficulty | Tag(s) |
-| ------ | ------ | ---------- | ------ |
-| _O(n)_ | _O(1)_ | Easy       | String |
+| Time   | Space  | Difficulty | Tag(s)   |
+| ------ | ------ | ---------- | -------- |
+| _O(n)_ | _O(1)_ | Easy       | `String` |

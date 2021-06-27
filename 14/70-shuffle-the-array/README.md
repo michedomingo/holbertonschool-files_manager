@@ -18,6 +18,6 @@ Explanation: Since x1=2, x2=5, x3=1, y1=3, y2=4, y3=7 then the answer is [2,3,5,
 - `nums.length == 2n`
 - `1 <= nums[i] <= 10^3`
 
-| Time   | Space  | Difficulty | Tag(s) |
-| ------ | ------ | ---------- | ------ |
-| _O(n)_ | _O(1)_ | Easy       | Array  |
+| Time   | Space  | Difficulty | Tag(s)  |
+| ------ | ------ | ---------- | ------- |
+| _O(n)_ | _O(1)_ | Easy       | `Array` |
