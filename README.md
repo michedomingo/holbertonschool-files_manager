@@ -13,7 +13,7 @@ Solution(s) to problem [35 Search Insert Position](https://leetcode.com/problems
 - [Hash Table](https://github.com/michedomingo/practice_leetcode#Array)
 - [Linked List](https://github.com/michedomingo/practice_leetcode#Array)
 - [Math](https://github.com/michedomingo/practice_leetcode#Math)
-- [Two Pointers](https://github.com/michedomingo/practice_leetcode#Math)
+- [Two Pointers](https://github.com/michedomingo/practice_leetcode#Two-Pointers)
 - [String](https://github.com/michedomingo/practice_leetcode#String)
 - [Binary Search](https://github.com/michedomingo/practice_leetcode#String)
 - [Divide and Conquer](https://github.com/michedomingo/practice_leetcode#String)
@@ -45,6 +45,20 @@ Solution(s) to problem [35 Search Insert Position](https://leetcode.com/problems
 | #    | Title                                                                      | Solution                                                                              | Time   | Space  | Difficulty |
 | ---- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------ | ------ | ---------- |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | [JavaScript]()<br>[Python](./15/12-number-of-good-pairs/1512-number-of-good-pairs.py) | _O(n)_ | _O(1)_ | Easy       |
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+---
+
+### Two Pointers
+
+| #    | Title                                                                | Solution                                                                  | Time   | Space  | Difficulty |
+| ---- | -------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------ | ------ | ---------- |
+| 0344 | [Reverse String](https://leetcode.com/problems/number-of-good-pairs) | [JavaScript]()<br>[Python](./03/44-reverse-string/0344-reverse-string.py) | _O(n)_ | _O(1)_ | Easy       |
 
 <br/>
 <div align="right">
