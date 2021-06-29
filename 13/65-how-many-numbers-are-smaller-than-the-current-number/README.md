@@ -22,6 +22,6 @@ For nums[4]=3 there exist three smaller numbers than it (1, 2 and 2).
 - `2 <= nums.length <= 500`
 - `0 <= nums[i] <= 100`
 
-| Time   | Space  | Difficulty | Tag(s)                  |
-| ------ | ------ | ---------- | ----------------------- |
-| _O(n)_ | _O(1)_ | Easy       | `Array`<br>`Hash Table` |
+| Time   | Space  | Difficulty | Tag(s)                                             |
+| ------ | ------ | ---------- | -------------------------------------------------- |
+| _O(n)_ | _O(1)_ | Easy       | `Array`<br>`Hash Table`<br>`Sorting`<br>`Counting` |
