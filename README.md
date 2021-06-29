@@ -10,15 +10,15 @@ Solution(s) to problem [35 Search Insert Position](https://leetcode.com/problems
 ## Algorithms
 
 - [Array](https://github.com/michedomingo/practice_leetcode#Array)
-- [Hash Table]()
-- [Linked List]()
-- [Math]()
-- [Two Pointers]()
+- [Hash Table](https://github.com/michedomingo/practice_leetcode#Array)
+- [Linked List](https://github.com/michedomingo/practice_leetcode#Array)
+- [Math](https://github.com/michedomingo/practice_leetcode#Math)
+- [Two Pointers](https://github.com/michedomingo/practice_leetcode#Math)
 - [String](https://github.com/michedomingo/practice_leetcode#String)
-- [Binary Search]()
-- [Divide and Conquer]()
-- [Dynamic Programming]()
-- [Backtracking]()
+- [Binary Search](https://github.com/michedomingo/practice_leetcode#String)
+- [Divide and Conquer](https://github.com/michedomingo/practice_leetcode#String)
+- [Dynamic Programming](https://github.com/michedomingo/practice_leetcode#String)
+- [Backtracking](https://github.com/michedomingo/practice_leetcode#String)
 
 ---
 

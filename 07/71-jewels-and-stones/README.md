@@ -17,6 +17,6 @@ Output: 3
 - `jewels` and `stones` consist of only English letters
 - All the characters of `jewels` are _unique_
 
-| Time   | Space  | Difficulty | Tag(s)                   |
+| Time   | Space  | Difficulty | Related Topics           |
 | ------ | ------ | ---------- | ------------------------ |
 | _O(n)_ | _O(1)_ | Easy       | `Hash Table`<br>`String` |

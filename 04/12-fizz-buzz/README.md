@@ -18,6 +18,6 @@ Output: ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13"
 
 - `1 <= n <= 104`
 
-| Time   | Space  | Difficulty | Tag(s)  |
-| ------ | ------ | ---------- | ------- |
-| _O(n)_ | _O(1)_ | Easy       | `Array` |
+| Time   | Space  | Difficulty | Related Topics |
+| ------ | ------ | ---------- | -------------- |
+| _O(n)_ | _O(1)_ | Easy       | `Array`        |

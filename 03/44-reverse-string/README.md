@@ -14,6 +14,6 @@ Output: ["o","l","l","e","h"]
 - `1 <= s.length <= 105`
 - `s[i]` is a [printable ascii character](https://en.wikipedia.org/wiki/ASCII#Printable_characters)
 
-| Time   | Space  | Difficulty | Tag(s)                     |
+| Time   | Space  | Difficulty | Related Topics             |
 | ------ | ------ | ---------- | -------------------------- |
 | _O(n)_ | _O(1)_ | Easy       | `Two Pointers`<br>`String` |

@@ -23,6 +23,6 @@ Kid 5 has 3 candies and if he or she receives at least 2 extra candies will have
 - `1 <= candies[i] <= 100`
 - `1 <= extraCandies <= 50`
 
-| Time   | Space  | Difficulty | Tag(s)  |
-| ------ | ------ | ---------- | ------- |
-| _O(n)_ | _O(1)_ | Easy       | `Array` |
+| Time   | Space  | Difficulty | Related Topics |
+| ------ | ------ | ---------- | -------------- |
+| _O(n)_ | _O(1)_ | Easy       | `Array`        |

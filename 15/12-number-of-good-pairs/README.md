@@ -19,6 +19,6 @@ Explanation: There are 4 good pairs (0,3), (0,4), (3,4), (2,5) 0-indexed.
 - `1 <= nums.length <= 100`
 - `1 <= nums[i] <= 100`
 
-| Time   | Space  | Difficulty | Tag(s)                            |
+| Time   | Space  | Difficulty | Related Topics                    |
 | ------ | ------ | ---------- | --------------------------------- |
 | _O(n)_ | _O(1)_ | Easy       | `Array`<br>`Hash Table`<br>`Math` |

@@ -21,6 +21,6 @@ Explanation: You are given the second node with value 5, the linked list should 
 - The value of each node in the list is **unique**
 - The node to be deleted is **in the list** and is **not a tail** node
 
-| Time   | Space  | Difficulty | Tag(s)        |
-| ------ | ------ | ---------- | ------------- |
-| _O(n)_ | _O(1)_ | Easy       | `Linked List` |
+| Time   | Space  | Difficulty | Related Topics |
+| ------ | ------ | ---------- | -------------- |
+| _O(n)_ | _O(1)_ | Easy       | `Linked List`  |

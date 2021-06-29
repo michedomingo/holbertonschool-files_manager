@@ -16,6 +16,6 @@ Output: [5,4,3,2,1]
 - The number of nodes in the list is the range `[0, 5000]`
 - `-5000 <= Node.val <= 5000`
 
-| Time   | Space  | Difficulty | Tag(s)        |
-| ------ | ------ | ---------- | ------------- |
-| _O(n)_ | _O(1)_ | Easy       | `Linked List` |
+| Time   | Space  | Difficulty | Related Topics |
+| ------ | ------ | ---------- | -------------- |
+| _O(n)_ | _O(1)_ | Easy       | `Linked List`  |

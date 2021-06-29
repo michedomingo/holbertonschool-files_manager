@@ -22,6 +22,6 @@ Both customers are considered the richest with a wealth of 6 each, so return 6.
 - `1 <= m, n <= 50`
 - `1 <= accounts[i][j] <= 100`
 
-| Time        | Space  | Difficulty | Tag(s)  |
-| ----------- | ------ | ---------- | ------- |
-| _O(m \* n)_ | _O(1)_ | Easy       | `Array` |
+| Time        | Space  | Difficulty | Related Topics |
+| ----------- | ------ | ---------- | -------------- |
+| _O(m \* n)_ | _O(1)_ | Easy       | `Array`        |

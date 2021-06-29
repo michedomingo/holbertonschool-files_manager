@@ -17,6 +17,6 @@ Output: 1
 - `-3 * 104 <= nums[i] <= 3 * 104`
 - Each element in the array appears twice except for one element which appears only once.
 
-| Time   | Space  | Difficulty | Tag(s)                        |
+| Time   | Space  | Difficulty | Related Topics                |
 | ------ | ------ | ---------- | ----------------------------- |
 | _O(n)_ | _O(1)_ | Easy       | `Array`<br>`Bit Manipulation` |

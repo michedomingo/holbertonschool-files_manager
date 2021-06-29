@@ -15,6 +15,6 @@ Output: "255[.]100[.]50[.]0"
 
 - The given `address` is a valid IPv4 address.
 
-| Time   | Space  | Difficulty | Tag(s)   |
-| ------ | ------ | ---------- | -------- |
-| _O(n)_ | _O(1)_ | Easy       | `String` |
+| Time   | Space  | Difficulty | Related Topics |
+| ------ | ------ | ---------- | -------------- |
+| _O(n)_ | _O(1)_ | Easy       | `String`       |

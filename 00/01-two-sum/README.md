@@ -21,6 +21,6 @@ Output: Because nums[0] + nums[1] == 9, we return [0, 1].
 - `-109 <= target <= 109`
 - **Only one valid answer exists**
 
-| Time   | Space  | Difficulty | Tag(s)                  |
+| Time   | Space  | Difficulty | Related Topics          |
 | ------ | ------ | ---------- | ----------------------- |
 | _O(n)_ | _O(1)_ | Easy       | `Hash Table`<br>`Array` |
