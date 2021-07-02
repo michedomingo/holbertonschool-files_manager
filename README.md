@@ -10,7 +10,7 @@ Solution(s) to problem [35 Search Insert Position](https://leetcode.com/problems
 ## Algorithms
 
 - [Array](https://github.com/michedomingo/practice_leetcode#Array)
-- [Hash Table](https://github.com/michedomingo/practice_leetcode#Array)
+- [Hash Table](https://github.com/michedomingo/practice_leetcode#Hash-Table)
 - [Linked List](https://github.com/michedomingo/practice_leetcode#Array)
 - [Math](https://github.com/michedomingo/practice_leetcode#Math)
 - [Two Pointers](https://github.com/michedomingo/practice_leetcode#Two-Pointers)
@@ -31,6 +31,20 @@ Solution(s) to problem [35 Search Insert Position](https://leetcode.com/problems
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                                                                       | [JavaScript]()<br>[Python](./14/70-shuffle-the-array/1470-shuffle-the-array.py)                                                                            | _O(n)_      | _O(1)_ | Easy       |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                           | [JavaScript](./14/80-running-sum-of-1d-array/1480-running-sum-of-1d-array.js)<br>[Python](./14/80-running-sum-of-1d-array/1480-running-sum-of-1d-array.py) | _O(n)_      | _O(1)_ | Easy       |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)                                                           | [JavaScript]()<br>[Python](./16/72-richest-customer-wealth/1672-richest-customer-wealth.py)                                                                | _O(m \* n)_ | _O(1)_ | Easy       |
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+---
+
+### Hash Table
+
+| #    | Title                                             | Solution                                                                                   | Time   | Space  | Difficulty |
+| ---- | ------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------ | ------ | ---------- |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](./00/01-two-sum/0001-two-sum.js)<br>[Python](./00/01-two-sum/0001-two-sum.py) | _O(n)_ | _O(1)_ | Easy       |
 
 <br/>
 <div align="right">
