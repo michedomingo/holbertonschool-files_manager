@@ -11,7 +11,7 @@ Solution(s) to problem [35 Search Insert Position](https://leetcode.com/problems
 
 - [Array](https://github.com/michedomingo/practice_leetcode#Array)
 - [Hash Table](https://github.com/michedomingo/practice_leetcode#Hash-Table)
-- [Linked List](https://github.com/michedomingo/practice_leetcode#Array)
+- [Linked List](https://github.com/michedomingo/practice_leetcode#Linked-List)
 - [Math](https://github.com/michedomingo/practice_leetcode#Math)
 - [Two Pointers](https://github.com/michedomingo/practice_leetcode#Two-Pointers)
 - [String](https://github.com/michedomingo/practice_leetcode#String)
@@ -45,6 +45,20 @@ Solution(s) to problem [35 Search Insert Position](https://leetcode.com/problems
 | #    | Title                                             | Solution                                                                                   | Time   | Space  | Difficulty |
 | ---- | ------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------ | ------ | ---------- |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](./00/01-two-sum/0001-two-sum.js)<br>[Python](./00/01-two-sum/0001-two-sum.py) | _O(n)_ | _O(1)_ | Easy       |
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+---
+
+### Linked List
+
+| #    | Title                                                                                       | Solution                                                                                                                                                                       | Time   | Space  | Difficulty |
+| ---- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ------ | ---------- |
+| 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [JavaScript](./02/37-delete-node-in-a-linked-list/0237-delete-node-in-a-linked-list.js)<br>[Python](./02/37-delete-node-in-a-linked-list/0237-delete-node-in-a-linked-list.py) | _O(n)_ | _O(1)_ | Easy       |
 
 <br/>
 <div align="right">
@@ -96,3 +110,21 @@ Solution(s) to problem [35 Search Insert Position](https://leetcode.com/problems
 <br/>
 
 ---
+
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](./00/01-two-sum/0001-two-sum.js)<br>[Python](./00/01-two-sum/0001-two-sum.py) | _O(n)_ | _O(1)_ | Easy |
+
+| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JavaScript](./00/07-reverse-integer/0007-reverse-integer.js)<br>[Python](./00/07-reverse-integer/0007-reverse-integer.py) | _O(n)_ | _O(1)_ | Easy |
+
+| 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](./00/13-roman-to-integer/0013-roman-to-integer.js)<br>[Python](./00/13-roman-to-integer/0013-roman-to-integer.py) | _O(n)_ | _O(1)_ | Easy |
+
+| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JavaScript](./00/14-longest-common-prefix/0014-longest-common-prefix.js)<br>[Python](./00/14-longest-common-prefix/0014-longest-common-prefix.py) | _O(n)_ | _O(1)_ | Easy |
+
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [JavaScript](./00/20-valid-parentheses/0020-valid-parentheses.js)<br>[Python](/00/20-valid-parentheses/0020-valid-parentheses.py) | _O(n)_ | _O(1)_ | Easy |
+
+| 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](./00/21-merge-two-sorted-lists/0021-merge-two-sorted-lists.js)<br>[Python](./00/21-merge-two-sorted-lists/0021-merge-two-sorted-lists.py) | _O(n)_ | _O(1)_ | Easy |
+
+| 0026 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](./00/26-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.js)<br>[Python](./00/26-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.py) | _O(n)_ | _O(1)_ | Easy |
+
+| 0028 | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [JavaScript](./00/28-implement-strstr/0028-implement-strstr.js)<br>[Python](./00/28-implement-strstr/0028-implement-strstr.py) | _O(n)_ | _O(1)_ | Easy |
+
+| 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [JavaScript](./01/36-valid-parentheses/0136-valid-parentheses.js)<br>[Python](./01/36-valid-parentheses/0136-valid-parentheses.py) | _O(n)_ | _O(1)_ | Easy |
