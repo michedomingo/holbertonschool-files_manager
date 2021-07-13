@@ -3,16 +3,16 @@ from typing import List
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        sum, answer = 0, []
+        map = {}
 
-        for i in range(len(nums) - 1):
-            sum = nums[i] + nums[i+1]
-            if sum == target:
-                answer.append(i)
-                answer.append(i + 1)
-                break
-
-        return answer
+        for index, num in enumerate(nums):
+            # value = target - num
+            # if value in map and map[value] != index:
+            #     return [map[value], index]
+            if num in map:
+                return [map[num], index]
+            else:
+                map[target-num] = index
 
 
 def main():
