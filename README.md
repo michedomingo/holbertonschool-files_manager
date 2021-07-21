@@ -13,12 +13,9 @@ Solution(s) to problem [35 Search Insert Position](https://leetcode.com/problems
 - [Hash Table](https://github.com/michedomingo/practice_leetcode#Hash-Table)
 - [Linked List](https://github.com/michedomingo/practice_leetcode#Linked-List)
 - [Math](https://github.com/michedomingo/practice_leetcode#Math)
-- [Two Pointers](https://github.com/michedomingo/practice_leetcode#Two-Pointers)
+- [Stack](https://github.com/michedomingo/practice_leetcode#Stack)
 - [String](https://github.com/michedomingo/practice_leetcode#String)
-- [Binary Search](https://github.com/michedomingo/practice_leetcode#String)
-- [Divide and Conquer](https://github.com/michedomingo/practice_leetcode#String)
-- [Dynamic Programming](https://github.com/michedomingo/practice_leetcode#String)
-- [Backtracking](https://github.com/michedomingo/practice_leetcode#String)
+- [Two Pointers](https://github.com/michedomingo/practice_leetcode#Two-Pointers)
 
 ---
 
@@ -70,9 +67,41 @@ Solution(s) to problem [35 Search Insert Position](https://leetcode.com/problems
 
 ### Math
 
-| #    | Title                                                                      | Solution                                                                              | Time   | Space  | Difficulty |
-| ---- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------ | ------ | ---------- |
-| 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | [JavaScript]()<br>[Python](./15/12-number-of-good-pairs/1512-number-of-good-pairs.py) | _O(n)_ | _O(1)_ | Easy       |
+| #    | Title                                                                      | Solution                                                                                                                       | Time   | Space  | Difficulty |
+| ---- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------ | ------ | ---------- |
+| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)          | [JavaScript](./00/07-reverse-integer/0007-reverse-integer.js)<br>[Python](./00/07-reverse-integer/0007-reverse-integer.py)     | _O(n)_ | _O(1)_ | Easy       |
+| 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)        | [JavaScript](./00/13-roman-to-integer/0013-roman-to-integer.js)<br>[Python](./00/13-roman-to-integer/0013-roman-to-integer.py) | _O(n)_ | _O(1)_ | Easy       |
+| 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | [JavaScript]()<br>[Python](./15/12-number-of-good-pairs/1512-number-of-good-pairs.py)                                          | _O(n)_ | _O(1)_ | Easy       |
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+---
+
+### Stack
+
+| #    | Title                                                                 | Solution                                                                                                                          | Time   | Space  | Difficulty |
+| ---- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ | ---------- |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [JavaScript](./00/20-valid-parentheses/0020-valid-parentheses.js)<br>[Python](/00/20-valid-parentheses/0020-valid-parentheses.py) | _O(n)_ | _O(1)_ | Easy       |
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+---
+
+### String
+
+| #    | Title                                                                                                                     | Solution                                                                                                                                                                                                                                   | Time   | Space  | Difficulty |
+| ---- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ------ | ---------- |
+| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                             | [JavaScript](./00/14-longest-common-prefix/0014-longest-common-prefix.js)<br>[Python](./00/14-longest-common-prefix/0014-longest-common-prefix.py)                                                                                         | _O(n)_ | _O(1)_ | Easy       |
+| 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)                                         | [JavaScript]()<br>[Python](./11/08-defanging-an-ip-address/1108-defanging-an-ip-address.py)                                                                                                                                                | _O(n)_ | _O(1)_ | Easy       |
+| 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | [JavaScript](./18/80-check-if-word-equals-summation-of-two-words/1880-check-if-word-equals-summation-of-two-words.js)<br>[Python](./18/80-check-if-word-equals-summation-of-two-words/1880-check-if-word-equals-summation-of-two-words.py) | _O(n)_ | _O(1)_ | Easy       |
 
 <br/>
 <div align="right">
@@ -96,35 +125,14 @@ Solution(s) to problem [35 Search Insert Position](https://leetcode.com/problems
 
 ---
 
-### String
-
-| #    | Title                                                                                                                     | Solution                                                                                                                                                                                                                                   | Time   | Space  | Difficulty |
-| ---- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ------ | ---------- |
-| 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)                                         | [JavaScript]()<br>[Python](./11/08-defanging-an-ip-address/1108-defanging-an-ip-address.py)                                                                                                                                                | _O(n)_ | _O(1)_ | Easy       |
-| 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | [JavaScript](./18/80-check-if-word-equals-summation-of-two-words/1880-check-if-word-equals-summation-of-two-words.js)<br>[Python](./18/80-check-if-word-equals-summation-of-two-words/1880-check-if-word-equals-summation-of-two-words.py) | _O(n)_ | _O(1)_ | Easy       |
-
-<br/>
-<div align="right">
-    <b><a href="#algorithms">⬆️ Back to Top</a></b>
-</div>
-<br/>
-
----
-
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](./00/01-two-sum/0001-two-sum.js)<br>[Python](./00/01-two-sum/0001-two-sum.py) | _O(n)_ | _O(1)_ | Easy |
-
-| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JavaScript](./00/07-reverse-integer/0007-reverse-integer.js)<br>[Python](./00/07-reverse-integer/0007-reverse-integer.py) | _O(n)_ | _O(1)_ | Easy |
-
-| 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](./00/13-roman-to-integer/0013-roman-to-integer.js)<br>[Python](./00/13-roman-to-integer/0013-roman-to-integer.py) | _O(n)_ | _O(1)_ | Easy |
-
-| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JavaScript](./00/14-longest-common-prefix/0014-longest-common-prefix.js)<br>[Python](./00/14-longest-common-prefix/0014-longest-common-prefix.py) | _O(n)_ | _O(1)_ | Easy |
-
-| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [JavaScript](./00/20-valid-parentheses/0020-valid-parentheses.js)<br>[Python](/00/20-valid-parentheses/0020-valid-parentheses.py) | _O(n)_ | _O(1)_ | Easy |
-
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](./00/21-merge-two-sorted-lists/0021-merge-two-sorted-lists.js)<br>[Python](./00/21-merge-two-sorted-lists/0021-merge-two-sorted-lists.py) | _O(n)_ | _O(1)_ | Easy |
 
-| 0026 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](./00/26-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.js)<br>[Python](./00/26-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.py) | _O(n)_ | _O(1)_ | Easy |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](./00/26-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.js)<br>[Python](./00/26-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.py) | _O(n)_ | _O(1)_ | Easy |
 
-| 0028 | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [JavaScript](./00/28-implement-strstr/0028-implement-strstr.js)<br>[Python](./00/28-implement-strstr/0028-implement-strstr.py) | _O(n)_ | _O(1)_ | Easy |
+| 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [JavaScript](./00/28-implement-strstr/0028-implement-strstr.js)<br>[Python](./00/28-implement-strstr/0028-implement-strstr.py) | _O(n)_ | _O(1)_ | Easy |
+
+| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [JavaScript](./00/53-maximum-subarray/0053-maximum-subarray.js)<br>[Python](./00/53-maximum-subarray/0053-maximum-subarray.py) | _O(n)_ | _O(1)_ | Easy |
+
+| 0067 | [Add Binary](https://leetcode.com/problems/add-binary/) | [JavaScript](./00/67-add-binary/0067-add-binary.js)<br>[Python](./00/67-add-binary/0067-add-binary.py) | _O(n)_ | _O(1)_ | Easy |
 
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [JavaScript](./01/36-valid-parentheses/0136-valid-parentheses.js)<br>[Python](./01/36-valid-parentheses/0136-valid-parentheses.py) | _O(n)_ | _O(1)_ | Easy |
