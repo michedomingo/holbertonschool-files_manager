@@ -124,15 +124,3 @@ Solution(s) to problem [35 Search Insert Position](https://leetcode.com/problems
 <br/>
 
 ---
-
-| 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](./00/21-merge-two-sorted-lists/0021-merge-two-sorted-lists.js)<br>[Python](./00/21-merge-two-sorted-lists/0021-merge-two-sorted-lists.py) | _O(n)_ | _O(1)_ | Easy |
-
-| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](./00/26-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.js)<br>[Python](./00/26-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.py) | _O(n)_ | _O(1)_ | Easy |
-
-| 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [JavaScript](./00/28-implement-strstr/0028-implement-strstr.js)<br>[Python](./00/28-implement-strstr/0028-implement-strstr.py) | _O(n)_ | _O(1)_ | Easy |
-
-| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [JavaScript](./00/53-maximum-subarray/0053-maximum-subarray.js)<br>[Python](./00/53-maximum-subarray/0053-maximum-subarray.py) | _O(n)_ | _O(1)_ | Easy |
-
-| 0067 | [Add Binary](https://leetcode.com/problems/add-binary/) | [JavaScript](./00/67-add-binary/0067-add-binary.js)<br>[Python](./00/67-add-binary/0067-add-binary.py) | _O(n)_ | _O(1)_ | Easy |
-
-| 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [JavaScript](./01/36-valid-parentheses/0136-valid-parentheses.js)<br>[Python](./01/36-valid-parentheses/0136-valid-parentheses.py) | _O(n)_ | _O(1)_ | Easy |
