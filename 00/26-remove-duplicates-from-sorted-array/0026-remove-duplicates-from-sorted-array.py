@@ -9,7 +9,7 @@ class Solution:
 
         i = 0                          # 2
 
-        for j in range(1, len(nums)):  # 3
+        for j in range(1, nums_length):  # 3
             if nums[j] != nums[i]:     # 4a
                 i += 1                 # 4b
                 nums[i] = nums[j]      # 4c
@@ -26,9 +26,6 @@ class Solution:
 
 # 5. return 'i+1' number of unique values found
 
-
-assert(Solution().removeDuplicates([1, 1, 2]) == 2)
-
 # index to overwrite on (i):  0
 #                      nums: [0, 0, 1, 1, 1, 2, 2, 3, 3, 4]
 # iterator              (j):     1
@@ -37,6 +34,10 @@ assert(Solution().removeDuplicates([1, 1, 2]) == 2)
 # final list           nums: [0, 1, 2, 3, 4, 2, 2, 3, 3, 4]
 #                       (j):                             8
 # return i + 1      (4 + 1):              5
+
+
+assert(Solution().removeDuplicates(nums=[1, 1, 2]) == 2)
+assert(Solution().removeDuplicates(nums=[0, 0, 1, 1, 1, 2, 2, 3, 3, 4]) == 5)
 
 
 def main():
