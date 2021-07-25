@@ -55,6 +55,7 @@ Solution(s) to problem [35 Search Insert Position](https://leetcode.com/problems
 
 | #    | Title                                                                                       | Solution                                                                                                                                                                       | Time   | Space  | Difficulty |
 | ---- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ------ | ---------- |
+| 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)             | [JavaScript](./00/21-merge-two-sorted-lists/0021-merge-two-sorted-lists.js)<br>[Python](./00/21-merge-two-sorted-lists/0021-merge-two-sorted-lists.py)                         | _O(n)_ | _O(1)_ | Easy       |
 | 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [JavaScript](./02/37-delete-node-in-a-linked-list/0237-delete-node-in-a-linked-list.js)<br>[Python](./02/37-delete-node-in-a-linked-list/0237-delete-node-in-a-linked-list.py) | _O(n)_ | _O(1)_ | Easy       |
 
 <br/>
@@ -113,9 +114,10 @@ Solution(s) to problem [35 Search Insert Position](https://leetcode.com/problems
 
 ### Two Pointers
 
-| #    | Title                                                                | Solution                                                                  | Time   | Space  | Difficulty |
-| ---- | -------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------ | ------ | ---------- |
-| 0344 | [Reverse String](https://leetcode.com/problems/number-of-good-pairs) | [JavaScript]()<br>[Python](./03/44-reverse-string/0344-reverse-string.py) | _O(n)_ | _O(1)_ | Easy       |
+| #    | Title                                                                                                     | Solution                                                                                                                                                                                                   | Time   | Space  | Difficulty |
+| ---- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ | ---------- |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](./00/26-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.js)<br>[Python](./00/26-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.py) | _O(n)_ | _O(1)_ | Easy       |
+| 0344 | [Reverse String](https://leetcode.com/problems/number-of-good-pairs)                                      | [JavaScript]()<br>[Python](./03/44-reverse-string/0344-reverse-string.py)                                                                                                                                  | _O(n)_ | _O(1)_ | Easy       |
 
 <br/>
 <div align="right">
