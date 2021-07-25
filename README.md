@@ -15,6 +15,7 @@ Solution(s) to problem [35 Search Insert Position](https://leetcode.com/problems
 - [Math](https://github.com/michedomingo/practice_leetcode#Math)
 - [Stack](https://github.com/michedomingo/practice_leetcode#Stack)
 - [String](https://github.com/michedomingo/practice_leetcode#String)
+- [String Matching](https://github.com/michedomingo/practice_leetcode#String-Matching)
 - [Two Pointers](https://github.com/michedomingo/practice_leetcode#Two-Pointers)
 
 ---
@@ -103,6 +104,20 @@ Solution(s) to problem [35 Search Insert Position](https://leetcode.com/problems
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                             | [JavaScript](./00/14-longest-common-prefix/0014-longest-common-prefix.js)<br>[Python](./00/14-longest-common-prefix/0014-longest-common-prefix.py)                                                                                         | _O(n)_ | _O(1)_ | Easy       |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)                                         | [JavaScript]()<br>[Python](./11/08-defanging-an-ip-address/1108-defanging-an-ip-address.py)                                                                                                                                                | _O(n)_ | _O(1)_ | Easy       |
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | [JavaScript](./18/80-check-if-word-equals-summation-of-two-words/1880-check-if-word-equals-summation-of-two-words.js)<br>[Python](./18/80-check-if-word-equals-summation-of-two-words/1880-check-if-word-equals-summation-of-two-words.py) | _O(n)_ | _O(1)_ | Easy       |
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+---
+
+### String Matching
+
+| #    | Title                                                                 | Solution                                                                                                                       | Time   | Space  | Difficulty |
+| ---- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------ | ------ | ---------- |
+| 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [JavaScript](./00/28-implement-strstr/0028-implement-strstr.js)<br>[Python](./00/28-implement-strstr/0028-implement-strstr.py) | _O(n)_ | _O(1)_ | Easy       |
 
 <br/>
 <div align="right">
