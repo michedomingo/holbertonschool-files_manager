@@ -27,6 +27,37 @@ class Solution:
 
 # 3. return new head reference called prev which is now start of list (value of 'head' is now none)
 
+# 2b.
+#    None    1 -> 2 -> 3 -> 4 -> 5 -> None
+#       ^    ^
+#    prev   head
+#           temp
+# _______________________________________
+# 2c.
+#    None    1 -> 2 -> 3 -> 4 -> 5 -> None
+#       ^    ^    ^
+#    prev   temp  head
+#
+# _______________________________________
+# 2d.
+#    None <- 1    2 -> 3 -> 4 -> 5 -> None
+#       ^    ^    ^
+#    prev   temp  head
+#
+# _______________________________________
+# 2e.
+#    None <- 1    2 -> 3 -> 4 -> 5 -> None
+#            ^    ^
+#           temp  head
+#           prev
+# _______________________________________
+# LAST ITERATION
+#    None <- 1 <- 2 <- 3 <- 4 <- 5    None
+#                                ^    ^
+#                               temp  head
+#                               prev
+
+
 # AttributeError: 'list' object has no attribute 'next'
 # assert(Solution().reverseList(head=[1, 2, 3, 4, 5]) == [5, 4, 3, 2, 1])
 # assert(Solution().reverseList(head=[1, 2]) == [2, 1])
