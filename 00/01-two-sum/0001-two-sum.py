@@ -31,7 +31,7 @@ complement = target - nums[index]
 # _______________________________________
 # step#4       index: 0       num: 2
 #
-#         [2, 7, 11, 15]      map = {7:0}
+#         [2, 7, 11, 15]      map = {}
 #          ^
 #      9 - 2 = 7 (complement)
 # target - num
