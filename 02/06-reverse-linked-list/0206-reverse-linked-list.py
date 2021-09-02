@@ -17,16 +17,18 @@ class Solution:
 
         return prev            # 3
 
-# 1. since head does not have reference to its previous node, initialize prev node to none/null
 
-# 2a. while head is present, this while loop executes
-# 2b. initialize temp pointer to maintain reference of current head
-# 2c. increment head to next element
-# 2d. connect/reverse temp pointer direction from right to left/prev node
-# 2e. update/assign prev node with old temp value (at start of iteration) before head incremented to next element
+"""
+1. since head does not have reference to its previous node, initialize prev node to none/null
 
-# 3. return new head reference called prev which is now start of list (value of 'head' is now none)
+2a. while head is present, this while loop executes
+2b. initialize temp pointer to maintain reference of current head
+2c. increment head to next element
+2d. connect/reverse temp pointer direction from right to left/prev node
+2e. update/assign prev node with old temp value (at start of iteration) before head incremented to next element
 
+3. return new head reference called prev which is now start of list (value of 'head' is now none)
+"""
 # 2b.
 #    None    1 -> 2 -> 3 -> 4 -> 5 -> None
 #       ^    ^
