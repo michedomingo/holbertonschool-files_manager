@@ -27,9 +27,23 @@ class Solution:
         return sum
 
 
+"""
+1.
+2.
+3.
+"""
+# Input: nums=[2, 7, 11, 15], target=9
+# _______________________________________
+
+assert(Solution().reverse(x=123) == 321)
+assert(Solution().reverse(x=-123) == -321)
+assert(Solution().reverse(x=120) == 21)
+assert(Solution().reverse(x=0) == 0)
+
+
 def main():
 
-    output = Solution().reverse(num=1534236469)
+    output = Solution().reverse(x=123)
     print(f"Output: {output}")
 
 
