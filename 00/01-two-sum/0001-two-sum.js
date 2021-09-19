@@ -23,7 +23,7 @@ complement = target - nums[index]
 1. initialize map to store seen key(target's complement) and value(index of other complement)
 
 2. get index of current iteration and num value/item at current iteration,
-    by looping through iterable object nums with enumerate(nums)
+    by looping through iterable object nums with Array.prototype.entries()
     
 
 3. if current num complement already exists in map, we found a solution,
