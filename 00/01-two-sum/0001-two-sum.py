@@ -6,8 +6,8 @@ class Solution:
         map = {}                             # 1
 
         for index, num in enumerate(nums):   # 2
-            if num in map:                   # 3
-                return [map[num], index]
+            if num in map:
+                return [map[num], index]     # 3
             else:
                 map[target-num] = index      # 4
 
